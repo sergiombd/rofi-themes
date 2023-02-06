@@ -56,7 +56,7 @@ Rofi is A window switcher, Application launcher and dmenu replacement. Rofi star
 
 - Then, Clone this repository -
 ```
-$ git clone --depth=1 https://github.com/adi1090x/rofi.git
+$ git clone --depth=1 https://github.com/dctxmei/rofi-themes.git
 ```
 
 - Change to cloned directory and make `setup.sh` executable -
